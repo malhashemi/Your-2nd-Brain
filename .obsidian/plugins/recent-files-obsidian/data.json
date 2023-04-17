@@ -1,0 +1,171 @@
+{
+  "recentFiles": [
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "Home Page",
+      "path": "Home Page.md"
+    },
+    {
+      "basename": "newNote",
+      "path": "Templates/newNote.md"
+    },
+    {
+      "basename": "Attachments",
+      "path": "Attachments/Attachments.md"
+    },
+    {
+      "basename": "Getting Started",
+      "path": "Getting Started.md"
+    },
+    {
+      "basename": "Hot Keys",
+      "path": "Tutorials/Hot Keys.md"
+    },
+    {
+      "basename": "Calendar",
+      "path": "Calendar/Calendar.md"
+    },
+    {
+      "basename": "Plugins",
+      "path": "Tutorials/Obsidian/Plugins.md"
+    },
+    {
+      "basename": "Tutorials",
+      "path": "Tutorials/Tutorials.md"
+    },
+    {
+      "basename": "Markdown Tutorial",
+      "path": "Tutorials/Obsidian/Markdown Tutorial.md"
+    },
+    {
+      "basename": "Checkboxes",
+      "path": "Tutorials/Obsidian/Checkboxes.md"
+    },
+    {
+      "basename": "textgenerator",
+      "path": "textgenerator/textgenerator.md"
+    },
+    {
+      "basename": "People",
+      "path": "Templates/People.md"
+    },
+    {
+      "basename": "Computed",
+      "path": "Computed/Computed.md"
+    },
+    {
+      "basename": "Obsidian",
+      "path": "Tutorials/Obsidian/Obsidian.md"
+    },
+    {
+      "basename": "Contacts",
+      "path": "Database/Contacts/Contacts.md"
+    },
+    {
+      "basename": "Database",
+      "path": "Database/Database.md"
+    },
+    {
+      "basename": "Contacts",
+      "path": "Computed/Contacts.md"
+    },
+    {
+      "basename": "To Process",
+      "path": "Computed/To Process.md"
+    },
+    {
+      "basename": "Tasks",
+      "path": "Computed/Tasks.md"
+    },
+    {
+      "basename": "spellCheck",
+      "path": "textgenerator/prompts/user/spellCheck.md"
+    },
+    {
+      "basename": "Templates",
+      "path": "Templates/Templates.md"
+    },
+    {
+      "basename": "Daily",
+      "path": "Templates/Daily.md"
+    },
+    {
+      "basename": "Callouts",
+      "path": "Tutorials/Obsidian/Advanced Topics/Callouts.md"
+    },
+    {
+      "basename": "Using Obsidian URI",
+      "path": "Tutorials/Obsidian/Advanced Topics/Using Obsidian URI.md"
+    },
+    {
+      "basename": "Advanced Topics",
+      "path": "Tutorials/Obsidian/Advanced Topics/Advanced Topics.md"
+    },
+    {
+      "basename": "Linking Notes and Files",
+      "path": "Tutorials/Obsidian/Linking Notes and Files/Linking Notes and Files.md"
+    },
+    {
+      "basename": "Internal Links",
+      "path": "Tutorials/Obsidian/Linking Notes and Files/Internal Links.md"
+    },
+    {
+      "basename": "rephrase",
+      "path": "textgenerator/prompts/user/rephrase.md"
+    },
+    {
+      "basename": "rewrite",
+      "path": "textgenerator/prompts/default/rewrite.md"
+    },
+    {
+      "basename": "simplify",
+      "path": "textgenerator/prompts/default/simplify.md"
+    },
+    {
+      "basename": "getParagraph",
+      "path": "textgenerator/prompts/default/getParagraph.md"
+    },
+    {
+      "basename": "summarize",
+      "path": "textgenerator/prompts/default/summarize.md"
+    },
+    {
+      "basename": "getEmailPos",
+      "path": "textgenerator/prompts/default/getEmailPos.md"
+    },
+    {
+      "basename": "getIdeas",
+      "path": "textgenerator/prompts/default/getIdeas.md"
+    },
+    {
+      "basename": "getOutline",
+      "path": "textgenerator/prompts/default/getOutline.md"
+    },
+    {
+      "basename": "getTags",
+      "path": "textgenerator/prompts/default/getTags.md"
+    },
+    {
+      "basename": "getTitles",
+      "path": "textgenerator/prompts/default/getTitles.md"
+    },
+    {
+      "basename": "getEmailNeg",
+      "path": "textgenerator/prompts/default/getEmailNeg.md"
+    },
+    {
+      "basename": "Aliases",
+      "path": "Tutorials/Obsidian/Linking Notes and Files/Aliases.md"
+    },
+    {
+      "basename": "og-image",
+      "path": "Attachments/og-image.png"
+    }
+  ],
+  "omittedPaths": [],
+  "maxLength": null,
+  "openType": "tab"
+}

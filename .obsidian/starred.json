@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "title": "Home Page",
+      "path": "Home Page.md"
+    },
+    {
+      "type": "file",
+      "title": "Hot Keys",
+      "path": "Tutorials/Hot Keys.md"
+    },
+    {
+      "type": "file",
+      "title": "Tasks",
+      "path": "Computed/Tasks.md"
+    }
+  ]
+}

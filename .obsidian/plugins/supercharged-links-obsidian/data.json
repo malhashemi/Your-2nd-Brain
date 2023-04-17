@@ -1,0 +1,37 @@
+{
+  "targetAttributes": [],
+  "targetTags": true,
+  "getFromInlineField": true,
+  "activateSnippet": true,
+  "enableEditor": true,
+  "enableFileList": true,
+  "enableBacklinks": true,
+  "enableQuickSwitcher": true,
+  "enableSuggestor": true,
+  "selectors": [
+    {
+      "type": "path",
+      "name": "",
+      "value": "Calendar",
+      "matchCaseSensitive": false,
+      "match": "startswith",
+      "uid": "29d2-f226",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
+    },
+    {
+      "type": "path",
+      "name": "",
+      "value": "ChatGPT_MD/chats",
+      "matchCaseSensitive": false,
+      "match": "startswith",
+      "uid": "29e2-c2ed",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
+    }
+  ]
+}

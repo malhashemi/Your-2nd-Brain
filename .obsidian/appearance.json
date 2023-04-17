@@ -1,0 +1,17 @@
+{
+  "accentColor": "",
+  "theme": "obsidian",
+  "interfaceFontFamily": "",
+  "textFontFamily": "",
+  "baseFontSize": 16,
+  "translucency": true,
+  "cssTheme": "80s Neon",
+  "enabledCssSnippets": [
+    "supercharged-links-gen",
+    "editor_translucency",
+    "alternativeCheckboxes"
+  ],
+  "showViewHeader": true,
+  "nativeMenus": false,
+  "baseFontSizeAction": true
+}

@@ -1,0 +1,3 @@
+{
+  "code": "setTimeout(() => {\n  if (window.app && window.app.vault) {\n    const vaultPath = window.app.vault.adapter.basePath;\n    console.log('Vault Path:', vaultPath);\n  }\n}, 1000);\n"
+}

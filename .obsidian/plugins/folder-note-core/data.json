@@ -1,0 +1,8 @@
+{
+  "folderNotePref": 1,
+  "deleteOutsideNoteWithFolder": false,
+  "indexName": "_about_",
+  "autoRename": true,
+  "folderNoteTemplate": "# {{FOLDER_NAME}}\n\n## Table of Content\n\n%% Waypoint %%\n\n## Notes Overview\n\n```folderv\n```\n",
+  "logLevel": 4
+}

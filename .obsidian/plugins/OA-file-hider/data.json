@@ -1,0 +1,10 @@
+{
+  "hidden": true,
+  "hiddenList": [
+    "Computed",
+    "Templates",
+    "Excalidraw/Scripts",
+    "textgenerator",
+    "ChatGPT_MD/templates"
+  ]
+}

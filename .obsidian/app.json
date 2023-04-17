@@ -1,0 +1,26 @@
+{
+  "livePreview": true,
+  "spellcheck": true,
+  "alwaysUpdateLinks": true,
+  "useMarkdownLinks": true,
+  "attachmentFolderPath": "Attachments",
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "defaultViewMode": "preview",
+  "newLinkFormat": "relative",
+  "strictLineBreaks": true,
+  "trashOption": "local",
+  "promptDelete": true,
+  "userIgnoreFilters": [
+    "Templates/",
+    "textgenerator/",
+    "ChatGPT_MD/templates/",
+    "Excalidraw/Scripts/"
+  ],
+  "newFileLocation": "current"
+}

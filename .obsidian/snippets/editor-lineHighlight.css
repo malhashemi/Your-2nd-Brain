@@ -1,0 +1,9 @@
+/*for legacy editor*/
+.CodeMirror-activeline.CodeMirror-linebackground{
+background-color: rgba(128, 128, 128, 0.1);
+}
+
+/*for live preview mode*/
+.cm-active.cm-line{
+background-color: rgba(128, 128, 128, 0.1);
+}

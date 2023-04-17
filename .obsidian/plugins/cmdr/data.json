@@ -1,0 +1,80 @@
+{
+  "confirmDeletion": false,
+  "showAddCommand": true,
+  "debug": false,
+  "editorMenu": [],
+  "fileMenu": [],
+  "leftRibbon": [
+    {
+      "id": "obsidian-linter:lint-file",
+      "icon": "brush",
+      "name": "Linter: Lint the current file",
+      "mode": "any"
+    }
+  ],
+  "rightRibbon": [],
+  "titleBar": [],
+  "statusBar": [
+    {
+      "id": "obsidian-textgenerator-plugin:set_max_tokens",
+      "icon": "separator-horizontal",
+      "name": "Text Generator: Set max_tokens",
+      "mode": "any"
+    },
+    {
+      "id": "obsidian-textgenerator-plugin:calculate-tokens",
+      "icon": "heading",
+      "name": "Text Generator: Estimate tokens for the current document",
+      "mode": "any"
+    }
+  ],
+  "pageHeader": [
+    {
+      "id": "chatgpt-md:move-to-chat",
+      "icon": "highlighter",
+      "name": "ChatGPT MD: Create new chat with highlighted text",
+      "mode": "any"
+    },
+    {
+      "id": "chatgpt-md:call-chatgpt-api",
+      "icon": "message-circle",
+      "name": "ChatGPT MD: Chat",
+      "mode": "any"
+    },
+    {
+      "id": "chatgpt-md:stop-streaming",
+      "icon": "octagon",
+      "name": "ChatGPT MD: Stop streaming",
+      "mode": "any"
+    },
+    {
+      "id": "obsidian-textgenerator-plugin:insert-generated-text-From-template",
+      "icon": "laptop",
+      "name": "Text Generator: Templates: Generate & Insert ",
+      "mode": "any"
+    },
+    {
+      "id": "obsidian-textgenerator-plugin:set-model",
+      "icon": "aperture",
+      "name": "Text Generator: Choose a model",
+      "mode": "any"
+    }
+  ],
+  "macros": [],
+  "explorer": [],
+  "hide": {
+    "statusbar": [],
+    "leftRibbon": []
+  },
+  "spacing": "8",
+  "advancedToolbar": {
+    "rowHeight": 48,
+    "rowCount": 1,
+    "spacing": 0,
+    "buttonWidth": 48,
+    "columnLayout": false,
+    "mappedIcons": [],
+    "tooltips": false,
+    "heightOffset": 0
+  }
+}
