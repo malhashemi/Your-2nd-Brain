@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a55c00201337cb9d",
+        "id": "130079918d85282d",
         "type": "tabs",
         "children": [
           {
-            "id": "d53f5fea89f7a3ac",
+            "id": "d0b5a59b1484c203",
             "type": "leaf",
             "state": {
               "type": "home-tab-view",
@@ -181,7 +181,15 @@
             }
           },
           {
-            "id": "f0470717f06f733b",
+            "id": "28384d18c77d6c34",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "b00650a9feb5cae3",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
@@ -189,7 +197,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 7
       },
       {
         "id": "c1e42f9799a84d40",
@@ -207,8 +215,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 448.5,
-    "collapsed": true
+    "width": 448.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -221,18 +228,21 @@
       "janitor:Janitor: scan vault": false,
       "obsidian-textgenerator-plugin:Generate Text!": false,
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "cmdr:Linter: Lint the current file": false,
       "obsidian-map-view:Open map view": false,
       "obsidian-javascript-init:Run Init JavaScript": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d53f5fea89f7a3ac",
+  "active": "d0b5a59b1484c203",
   "lastOpenFiles": [
+    "textgenerator/textgenerator.md",
+    "Ideas/Ideas.md",
+    "Ideas",
+    "Templates/newNote.md",
     "README.md",
     "Home Page.md",
-    "Templates/newNote.md",
     "CSS snippets.md",
     "Attachments/Attachments.md",
     "Getting Started.md",
@@ -247,7 +257,6 @@
     "Tutorials/Obsidian/Markdown Tutorial.md",
     "Tutorials/Obsidian/Checkboxes.md",
     "Attachments.md",
-    "textgenerator/textgenerator.md",
     "Templates/People.md",
     "ChatGPT/chats/20230417080431.md",
     "ChatGPT/chats/20230417080128.md",
@@ -258,7 +267,6 @@
     "Tutorials/Obsidian/Obsidian.md",
     "Database/Contacts/Contacts.md",
     "Database/Database.md",
-    "Computed/Contacts.md",
     "Attachments/Pasted image 20230417044502.png",
     "custom-icons.zip",
     "Attachments/Dorodillo 7_QuadCombo_Vertical.pdf.crswap",
@@ -273,7 +281,6 @@
     "Attachments/image007.png",
     "Attachments/image001.png",
     "Attachments/Egg-ceptional Easter Event - Strengthening Connections and Reinforcing Safety at SLB.pdf",
-    "Attachments/Egg-ceptional Easter Event - Strengthening Connections and Reinforcing Safety at SLB.docx",
     "Attachments/og-image.png",
     "Excalidraw/Scripts/Downloaded/Elbow connectors.svg",
     "Untitled.canvas"

@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "textgenerator",
+      "path": "textgenerator/textgenerator.md"
+    },
+    {
+      "basename": "Ideas",
+      "path": "Ideas/Ideas.md"
+    },
+    {
+      "basename": "newNote",
+      "path": "Templates/newNote.md"
+    },
+    {
       "basename": "README",
       "path": "README.md"
     },
     {
       "basename": "Home Page",
       "path": "Home Page.md"
-    },
-    {
-      "basename": "newNote",
-      "path": "Templates/newNote.md"
     },
     {
       "basename": "Attachments",
@@ -43,10 +51,6 @@
     {
       "basename": "Checkboxes",
       "path": "Tutorials/Obsidian/Checkboxes.md"
-    },
-    {
-      "basename": "textgenerator",
-      "path": "textgenerator/textgenerator.md"
     },
     {
       "basename": "People",

@@ -24,24 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "textgenerator/textgenerator.md",
+      "timestamp": 1681853712499
+    },
+    {
+      "filepath": "Ideas/Ideas.md",
+      "timestamp": 1681853676140
+    },
+    {
+      "filepath": "Templates/newNote.md",
+      "timestamp": 1681853552291
+    },
+    {
       "filepath": "README.md",
       "timestamp": 1681749799382
     },
     {
       "filepath": "Home Page.md",
       "timestamp": 1681749752782
-    },
-    {
-      "filepath": "Templates/newNote.md",
-      "timestamp": 1681749625367
-    },
-    {
-      "filepath": "Attachments/Attachments.md",
-      "timestamp": 1681748815633
-    },
-    {
-      "filepath": "Getting Started.md",
-      "timestamp": 1681748743853
     }
   ],
   "starredFileStore": [
